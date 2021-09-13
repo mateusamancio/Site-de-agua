@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+## Uso de água na cidade de Rio Claro
+### Projeto
+ Pedro vai mandar no wpp
+ 
+### O que é a água?
+A água é fonte da vida. É um recurso natural essencial, seja como componente bioquímico de seres vivos, como meio de vida de várias espécies vegetais e animais, como elemento representativo de valores sociais e culturais e até como fator de produção de vários bens de consumo final e intermediário.
 
-You can use the [editor on GitHub](https://github.com/mateusamancio/Site-de-gua/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Curiosidades sobre a água
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A Terra possui 1,386 bilhões de km cúbicos de água, mas apenas 2,5% desse total é de água doce. Os rios, lagos e reservatórios de onde a humanidade retira o que consome só correspondem a 0,26% desse percentual. Daí a necessidade de preservação dos recursos hídricos. Em todo mundo, em média, 10% da utilização da água vai para o abastecimento público, 23% para a indústria e 67% para a agricultura.
 
-### Markdown
+O Brasil é um país privilegiado no que diz respeito à quantidade de água. Tem a maior reserva de água doce da Terra, ou seja 12% do total mundial. Sua distribuição, porém, não é uniforme em todo o território nacional. A Amazônia, por exemplo, é uma região que detém a maior bacia fluvial do mundo. O volume de água do rio Amazonas é o maior de todos os rios do globo, sendo considerado um rio essencial para o planeta.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+O Brasil exporta cerca de 112 trilhões de
+litros de água doce por ano, isso se deve ao desenvolvimento do setor primário 
+da economia, somos o maior exportador mundial de carne bovina, 
+suína e de aves, além de açúcar, café e suco
+de laranja e o segundo de soja e milho. Somos o segundo maior exportador de
+alimentos do mundo, sendo assim, exportamos “água virtual” para os outros países,
+a quantidade de água exportada é o suficiente para prover 2,8 bilhões de
+pessoas.
 
-```markdown
-Syntax highlighted code block
+### Água virtual
 
-# Header 1
-## Header 2
-### Header 3
+Água virtual é a água “incorporada” em um bem de consumo, considerando toda
+sua cadeia de produção. Segundo a Organização das Nações Unidas (ONU), uma
+pessoa gasta, em média, 110 litros de água por dia para higiene, ingestão, limpeza
+e preparação de alimentos, entre outros. Mas esse indicador não leva em conta o
+consumo indireto, ou seja, a água usada para produzir roupas, sapatos, carros,
+alimentos etc.
 
-- Bulleted
-- List
+A produção de um quilo de carne bovina, por exemplo, utiliza 15,5 mil litros de água.
+Já para confeccionar a calça jeans que você está vestindo, são necessários 10 mil
+litros. Esses números revelam que, na verdade, o consumo diário de água por
+pessoa é bem superior ao divulgado pela ONU. Por isso, a água virtual surgiu como
+um conceito que ajuda a demonstrar como esse consumo é muito maior do que
+imaginamos.
 
-1. Numbered
-2. List
+### Impacto ambiental no consumo excessivo da água
 
-**Bold** and _Italic_ and `Code` text
+Com o consumo exagerado de água nós vamos acabar diminuindo os mananciais, que são todas as fontes de água potável que nós temos acesso, e o que isso quer dizer ? Diminuindo as fontes de água, muitos animais serão extintos como o peixe boi, o boto cor de rosa, ariranha, boto cinza, diversas espécies de peixes e tartarugas.
+	
+  O consumo excessivo de água também se resumirá em uma seca na região ou país todo, e isso também leva a perda de safra, plantações, gado e racionalização de água em toda a região afetada.
+	
+  Mas as secas não ocorrem apenas por conta do uso inconsciente da água, nós temos registros de secas a mais de 400 anos, e de acordo com uma pesquisa, o Brasil passa por cerca de 20 anos de seca a cada 100 anos, mas com certeza o uso irracional da água agravará cada vez mais mais essas estatísticas, e nós poderemos viver secas de dezenas de anos sem parar, o que causariam mortes, falta de abastecimento nas casas, falta de alimento e tudo o que se pode imaginar.
+	
+  E mesmo sabendo de tudo isso, nós não paramos de consumir água sem consciência, de acordo com uma pesquisa, até o ano de 2050 cerca de mais de 3 bilhões de pessoas não terão acesso a água potável e bem cuidada, o que também agravará problemas de saúde, mais e mais pessoas morrerão por desidratação juntamente com a natureza, seja árvores, animais terrestres ou de água.
 
-[Link](url) and ![Image](src)
-```
+### Importância do uso racional de água
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Números do uso de água 
+![Uso-de-gua-dom-stico.png](https://i.postimg.cc/wjq3tJK0/Uso-de-gua-dom-stico.png)](https://postimg.cc/Cz2wXRxq)
+[![Consumo-de-gua-per-capita-em-litros-em-diferentes-pa-ses.png](https://i.postimg.cc/FR3hCs5Y/Consumo-de-gua-per-capita-em-litros-em-diferentes-pa-ses.png)
+[![Points-scored.png](https://i.postimg.cc/Xqg43Hv3/Points-scored.png)](https://postimg.cc/CndWs4D6)
+[![Consumo-de-gua-no-Brasil.png](https://i.postimg.cc/441gY0JR/Consumo-de-gua-no-Brasil.png)](https://postimg.cc/dDDXX4k5)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mateusamancio/Site-de-gua/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Calculadora
+  Com a nossa calculadora você receberá um relatório no seu email em até 48 horas sobre o seu consumo de água.
+[https://forms.gle/ZjLUYJvo5T9x4WNv5]
