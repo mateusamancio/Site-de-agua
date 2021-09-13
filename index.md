@@ -57,4 +57,5 @@ Com o consumo exagerado de água nós vamos acabar diminuindo os mananciais, que
 
 ### Calculadora
   Com a nossa calculadora você receberá um relatório no seu email em até 48 horas sobre o seu consumo de água.
-[https://forms.gle/ZjLUYJvo5T9x4WNv5]
+  
+<a href="https://forms.gle/ZjLUYJvo5T9x4WNv5">Hyperlink</a>
