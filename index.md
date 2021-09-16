@@ -50,8 +50,8 @@ Com o consumo exagerado de água nós vamos acabar diminuindo os mananciais, que
 
 
 ### Números do uso de água 
-![Uso-de-gua-dom-stico.png](https://i.postimg.cc/wjq3tJK0/Uso-de-gua-dom-stico.png)](https://postimg.cc/Cz2wXRxq)
-[![Consumo-de-gua-per-capita-em-litros-em-diferentes-pa-ses.png](https://i.postimg.cc/FR3hCs5Y/Consumo-de-gua-per-capita-em-litros-em-diferentes-pa-ses.png)
+[![Uso-de-gua-dom-stico.png](https://i.postimg.cc/wjq3tJK0/Uso-de-gua-dom-stico.png)](https://postimg.cc/Cz2wXRxq)
+![Consumo-de-gua-per-capita-em-litros-em-diferentes-pa-ses.png](https://i.postimg.cc/FR3hCs5Y/Consumo-de-gua-per-capita-em-litros-em-diferentes-pa-ses.png)
 [![Points-scored.png](https://i.postimg.cc/Xqg43Hv3/Points-scored.png)](https://postimg.cc/CndWs4D6)
 [![Consumo-de-gua-no-Brasil.png](https://i.postimg.cc/441gY0JR/Consumo-de-gua-no-Brasil.png)](https://postimg.cc/dDDXX4k5)
 
