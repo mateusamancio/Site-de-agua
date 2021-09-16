@@ -1,6 +1,6 @@
 ## Uso de água na cidade de Rio Claro
 ### Projeto
- Pedro vai mandar no wpp
+ O objetivo do nosso projeto é conscientizar a população da cidade de Rio Claro sobre a má utilização de água nas residências, e para isso criamos um site que lhe contará um pouco mais sobre o uso de água, e também terá uma calculadora que definirá o seu nível de conscientização.
  
 ### O que é a água?
 A água é fonte da vida. É um recurso natural essencial, seja como componente bioquímico de seres vivos, como meio de vida de várias espécies vegetais e animais, como elemento representativo de valores sociais e culturais e até como fator de produção de vários bens de consumo final e intermediário.
