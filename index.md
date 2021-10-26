@@ -46,8 +46,6 @@ Com o consumo exagerado de água nós vamos acabar diminuindo os mananciais, que
 	
   E mesmo sabendo de tudo isso, nós não paramos de consumir água sem consciência, de acordo com uma pesquisa, até o ano de 2050 cerca de mais de 3 bilhões de pessoas não terão acesso a água potável e bem cuidada, o que também agravará problemas de saúde, mais e mais pessoas morrerão por desidratação juntamente com a natureza, seja árvores, animais terrestres ou de água.
 
-### Importância do uso racional de água
-
 
 ### Números do uso de água 
 [![Uso-de-gua-dom-stico.png](https://i.postimg.cc/wjq3tJK0/Uso-de-gua-dom-stico.png)](https://postimg.cc/Cz2wXRxq)
