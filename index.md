@@ -17,7 +17,7 @@ da economia, somos o maior exportador mundial de carne bovina,
 suína e de aves, além de açúcar, café e suco
 de laranja e o segundo de soja e milho. Somos o segundo maior exportador de
 alimentos do mundo, sendo assim, exportamos “água virtual” para os outros países,
-a quantidade de água exportada é o suficiente para prover 2,8 bilhões de
+a quantidade de água exportada é o suficiente para prover água para 2,8 bilhões de
 pessoas.
 
 ### Água virtual
