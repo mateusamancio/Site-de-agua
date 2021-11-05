@@ -7,18 +7,14 @@ A água é fonte da vida. É um recurso natural essencial, seja como componente 
 
 ### Curiosidades sobre a água
 
-A Terra possui 1,386 bilhões de km cúbicos de água, mas apenas 2,5% desse total é de água doce. Os rios, lagos e reservatórios de onde a humanidade retira o que consome só correspondem a 0,26% desse percentual. Daí a necessidade de preservação dos recursos hídricos. Em todo mundo, em média, 10% da utilização da água vai para o abastecimento público, 23% para a indústria e 67% para a agricultura.
+A terra contém 1.260.000.000.000.000.000.000 de litros (ou um sextilhão duzentos e 
+sessenta quintilhões de litros) de água, todavia 2,5% é água doce. Sendo 0,26% consumível, próprio ao consumo humano, logo há necessidade de preservar os recursos hídricos. 
 
-O Brasil é um país privilegiado no que diz respeito à quantidade de água. Tem a maior reserva de água doce da Terra, ou seja 12% do total mundial. Sua distribuição, porém, não é uniforme em todo o território nacional. A Amazônia, por exemplo, é uma região que detém a maior bacia fluvial do mundo. O volume de água do rio Amazonas é o maior de todos os rios do globo, sendo considerado um rio essencial para o planeta.
+Levando em consideração que o consumo residencial e abastecimento público equivale 10% da água utilizada, enquanto a indústria consome 23% e a agricultura 67%.
+A posição do Brasil no cenário internacional é muito vantajosa , afinal temos a maior reserva de água doce sendo composta por 12% da reserva mundial. Todavia, a não é bem distribuída, sendo em sua maioria na Amazônia que é a maior bacia de água fluvial do mundo,a sua totalidade de água é maior do que de todos os rios do mundo. Sendo uma bacia essencial para o planeta.
 
-O Brasil exporta cerca de 112 trilhões de
-litros de água doce por ano, isso se deve ao desenvolvimento do setor primário 
-da economia, somos o maior exportador mundial de carne bovina, 
-suína e de aves, além de açúcar, café e suco
-de laranja e o segundo de soja e milho. Somos o segundo maior exportador de
-alimentos do mundo, sendo assim, exportamos “água virtual” para os outros países,
-a quantidade de água exportada é o suficiente para prover água para 2,8 bilhões de
-pessoas.
+O Brasil exporta cerca de 112 trilhões de litros de água doce por ano, isso se deve ao desenvolvimento do setor primário da economia, somos o maior exportador mundial de carne bovina, suína e de aves, além de açúcar, café e suco de laranja e o segundo de soja e milho. Somos o segundo maior exportador de alimentos do mundo, sendo assim, exportamos “água virtual” para os outros países, a quantidade de água exportada é o suficiente para prover 2,8 bilhões de pessoas.
+
 
 ### Água virtual
 
