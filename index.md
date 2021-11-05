@@ -18,19 +18,10 @@ O Brasil exporta cerca de 112 trilhões de litros de água doce por ano, isso se
 
 ### Água virtual
 
-Água virtual é a água “incorporada” em um bem de consumo, considerando toda
-sua cadeia de produção. Segundo a Organização das Nações Unidas (ONU), uma
-pessoa gasta, em média, 110 litros de água por dia para higiene, ingestão, limpeza
-e preparação de alimentos, entre outros. Mas esse indicador não leva em conta o
-consumo indireto, ou seja, a água usada para produzir roupas, sapatos, carros,
-alimentos etc.
+Água virtual é aquela água que não se vê, ela está “acoplada” aos alimentos e produtos industrializados, como roupas, automóveis, combustível e etc. De acordo com a ONU é recomendável consumir até 110 litros de água por dia, tendo como gasto a ingestão, higiene,  uso em alimentos e entre outros. Todavia, ela não leva em consideração o uso virtual da água.
 
-A produção de um quilo de carne bovina, por exemplo, utiliza 15,5 mil litros de água.
-Já para confeccionar a calça jeans que você está vestindo, são necessários 10 mil
-litros. Esses números revelam que, na verdade, o consumo diário de água por
-pessoa é bem superior ao divulgado pela ONU. Por isso, a água virtual surgiu como
-um conceito que ajuda a demonstrar como esse consumo é muito maior do que
-imaginamos.
+ Temos como exemplo o plástico, que de acordo com a Associação de Dirigentes de Empresas do Mercado Imobiliário (ADEMI, 2018) esse produto utiliza 180 litros de água para ser produzido, o papel que a cada folha é utilizado 10 litros de água, e para produzir um carro é usado 400 mil litros de água. Isso reflete como os cálculos divulgados pela ONU não condizem com a realidade, sendo possível estipular um valor muito maior.
+
 
 ### Impacto ambiental no consumo excessivo da água
 
